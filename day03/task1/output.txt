@@ -1,0 +1,8 @@
+Total joltage: 17316
+Total lines: 200
+Skipped lines: 0
+Processed lines: 200
+Average per processed line: 86.58
+Min per line: 33
+Max per line: 99
+First 10 line totals: 77, 97, 86, 86, 86, 99, 88, 99, 99, 98

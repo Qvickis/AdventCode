@@ -1,0 +1,7 @@
+--- Part Two ---
+
+Total output joltage: 171,741,365,473,332
+Total lines processed: 200
+Average per line: 858,706,827,366.66
+Min per line: 333332322322
+Max per line: 999999999999
